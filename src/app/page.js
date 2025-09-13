@@ -24,7 +24,7 @@ export default function Index() {
             <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="yba7hPeTSjk" onClose={() => setOpen(false)} />
             <section className="py-36 lg:py-56 w-full table relative bg-[url('/images/bg/aloulou-hero-bg.jpg')] bg-top bg-no-repeat" id="home">
                 <div className="absolute inset-0 bg-gradient-to-t to-slate-950/50 via-slate-950/75 from-slate-950"></div>
-                <div className="container">
+                <div className="container"> 
                     <div className="grid grid-cols-1 pb-8 text-center mt-10">
                         
                         <h3 className="font-medium leading-normal text-4xl mb-5 mt-10 text-white font-lexend">Your AI Companion That Speaks Tunisian</h3>
@@ -133,7 +133,7 @@ export default function Index() {
                         <div className="max-w-2xl mx-auto">
                             <div className="text-center">
                                 <p className="text-lg text-slate-600 dark:text-slate-300 mb-4">
-                                    "Finally, an AI that understands when I say 'برشا' or 'زعمة'! Aloulou feels like chatting with a smart Tunisian friend."
+                                    Finally, an AI that understands when I say &apos;برشا&apos; or &apos;زعمة&apos;! Aloulou feels like chatting with a smart Tunisian friend.
                                 </p>
                                 <div className="flex items-center justify-center space-x-1 mb-2">
                                     {[...Array(5)].map((_, i) => (

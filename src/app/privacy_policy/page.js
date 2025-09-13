@@ -91,7 +91,7 @@ export default function PrivacyPolicy() {
                                 AI Training and Content Usage
                             </h2>
                             <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-                                Your conversations may be used to improve Aloulou's understanding of Tunisian dialect 
+                                Your conversations may be used to improve Aloulou&apos;s understanding of Tunisian dialect 
                                 and cultural context. Personal identifiers are removed before any training data usage. 
                                 Premium subscribers can opt out of having their conversations used for training purposes.
                             </p>
@@ -110,7 +110,7 @@ export default function PrivacyPolicy() {
                                     <strong>Payment Processors:</strong> We share billing information with secure payment processors for subscription management.
                                 </p>
                                 <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-                                    <strong>Legal Requirements:</strong> We may disclose information when required by law or to protect our users' safety.
+                                    <strong>Legal Requirements:</strong> We may disclose information when required by law or to protect our users safety.
                                 </p>
                                 <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
                                     <strong>No Content Sales:</strong> We never sell your conversations or personal content to third parties for marketing purposes.
@@ -132,7 +132,7 @@ export default function PrivacyPolicy() {
                                 <li>Never shared with other users or third parties</li>
                                 <li>Scanned for malicious content before processing</li>
                             </ul>
-                        </section>
+                        </section> 
 
                         {/* Data Security */}
                         <section>
